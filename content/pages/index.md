@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to Socyres
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Here you can find all about social media and cyber resilience.
     actions:
       - label: Let's talk
         url: /contact
